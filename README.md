@@ -4,7 +4,7 @@
   1. No GitHub, crie um repositório PÚBLICO com o MESMO nome do seu usuário
      (ex.: usuário "lucas123" -> repositório "lucas123").
   2. Cole este arquivo como README.md nesse repositório.
-  3. Troque tudo que está como horaguimaraes, lucas-hora-800a28170, SEU_EMAIL, etc.
+  3. Troque tudo que está como SEU_USUARIO, SEU_LINKEDIN, SEU_EMAIL, etc.
 ============================================================ -->
 
 <!-- Cabeçalho com gradiente -->
@@ -17,8 +17,8 @@
 
 <br/>
 
-![Visitantes](https://komarev.com/ghpvc/?username=horaguimaraes&label=Visitas&color=0e75b6&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/horaguimaraes?label=Seguidores&style=flat-square&color=0e75b6)
+![Visitantes](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=0e75b6&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat-square&color=0e75b6)
 ![Localização](https://img.shields.io/badge/Rio_de_Janeiro-BR-0e75b6?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -33,6 +33,7 @@ Gosto de soluções **simples, autocontidas e que funcionam de verdade**, muitas
 
 - 📊 Trabalho com **dados, dashboards e automação de relatórios**
 - 🛠️ Construo **ferramentas internas** sob medida (HTML/JS, integração com SharePoint)
+- 🎓 Cursando o último ano de **Tecnologia em TI na UFF**
 - 🎮 Curto **jogos** e brinco de criar os meus próprios
 - 🏃 Fora da tela: **corrida, treino e trilhas**
 - 🌱 Sempre estudando algo novo em dados e desenvolvimento
@@ -48,11 +49,14 @@ Gosto de soluções **simples, autocontidas e que funcionam de verdade**, muitas
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Desenvolvimento**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,6 +70,7 @@ Gosto de soluções **simples, autocontidas e que funcionam de verdade**, muitas
 
 </div>
 
+> 💡 Ajuste os badges à sua realidade. Procure outros em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
 
 ---
 
@@ -80,7 +85,7 @@ Jogo de **batalha naval** em português, feito para rodar direto no navegador, s
 
 `JavaScript` `HTML` `CSS`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/frota-fantasma)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/frota-fantasma)
 
 </td>
     <td width="50%" valign="top">
@@ -90,7 +95,7 @@ Painel **kanban em arquivo único** para gestão de backlog de times, com filtro
 
 `JavaScript` `HTML` `SharePoint`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
 
 </td>
   </tr>
@@ -102,7 +107,7 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 `Tecnologia` `Tecnologia`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
 
 </td>
     <td width="50%" valign="top">
@@ -112,7 +117,7 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 `Tecnologia` `Tecnologia`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
 
 </td>
   </tr>
@@ -124,18 +129,18 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 <div align="center">
 
-<a href="https://github.com/horaguimaraes">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=horaguimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaguimaraes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-</a>
+<!-- Estes cards são gerados pelo GitHub Action (.github/workflows/profile-summary-cards.yml)
+     e ficam salvos no próprio repositório, então não dependem de serviços externos. -->
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=horaguimaraes&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=horaguimaraes&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários mais produtivos" />
 
 </div>
 
