@@ -1,0 +1,26 @@
+# Salve este arquivo em:  .github/workflows/profile-summary-cards.yml
+# (no repositório do seu perfil, o que tem o mesmo nome do seu usuário)
+#
+# Ele gera os cards de estatísticas como imagens SVG dentro do próprio repositório,
+# e atualiza todo dia. Assim o README não depende de serviços externos que caem.
+
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todo dia, 00h no horário de Brasília
+  workflow_dispatch: # permite rodar manualmente (botão "Run workflow")
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Gerar cards do perfil
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
