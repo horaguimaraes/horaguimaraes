@@ -4,7 +4,7 @@
   1. No GitHub, crie um repositório PÚBLICO com o MESMO nome do seu usuário
      (ex.: usuário "lucas123" -> repositório "lucas123").
   2. Cole este arquivo como README.md nesse repositório.
-  3. Troque tudo que está como SEU_USUARIO, SEU_LINKEDIN, SEU_EMAIL, etc.
+  3. Troque tudo que está como horaguimaraes, lucas-hora-800a28170, SEU_EMAIL, etc.
 ============================================================ -->
 
 <!-- Cabeçalho com gradiente -->
@@ -17,8 +17,8 @@
 
 <br/>
 
-![Visitantes](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=0e75b6&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat-square&color=0e75b6)
+![Visitantes](https://komarev.com/ghpvc/?username=horaguimaraes&label=Visitas&color=0e75b6&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/horaguimaraes?label=Seguidores&style=flat-square&color=0e75b6)
 ![Localização](https://img.shields.io/badge/Rio_de_Janeiro-BR-0e75b6?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
@@ -66,7 +66,6 @@ Gosto de soluções **simples, autocontidas e que funcionam de verdade**, muitas
 
 </div>
 
-> 💡 Ajuste os badges à sua realidade. Procure outros em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
 
 ---
 
@@ -81,7 +80,7 @@ Jogo de **batalha naval** em português, feito para rodar direto no navegador, s
 
 `JavaScript` `HTML` `CSS`
 
-[🔗 Ver repositório](https://github.com/SEU_USUARIO/frota-fantasma)
+[🔗 Ver repositório](https://github.com/horaguimaraes/frota-fantasma)
 
 </td>
     <td width="50%" valign="top">
@@ -91,7 +90,7 @@ Painel **kanban em arquivo único** para gestão de backlog de times, com filtro
 
 `JavaScript` `HTML` `SharePoint`
 
-[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
 
 </td>
   </tr>
@@ -103,7 +102,7 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 `Tecnologia` `Tecnologia`
 
-[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
 
 </td>
     <td width="50%" valign="top">
@@ -113,7 +112,7 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 `Tecnologia` `Tecnologia`
 
-[🔗 Ver repositório](https://github.com/SEU_USUARIO/NOME_DO_REPO)
+[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
 
 </td>
   </tr>
@@ -125,18 +124,18 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
+<a href="https://github.com/horaguimaraes">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=horaguimaraes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaguimaraes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=horaguimaraes&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=horaguimaraes&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" width="100%" />
 
 </div>
 
@@ -146,9 +145,9 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hora-800a28170)
 [![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dxhora)
 
 <br/>
 
