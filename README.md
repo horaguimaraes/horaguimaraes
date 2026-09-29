@@ -1,123 +1,99 @@
-<!-- ============================================================
-  README DE PERFIL — Lucas
-  Como usar:
-  1. No GitHub, crie um repositório PÚBLICO com o MESMO nome do seu usuário
-     (ex.: usuário "lucas123" -> repositório "lucas123").
-  2. Cole este arquivo como README.md nesse repositório.
-  3. Troque tudo que está como horaguimaraes, SEU_LINKEDIN, SEU_EMAIL, etc.
-============================================================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Lucas%20Hora&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20BI%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Automation&descSize=20&descAlignY=62&animation=fadeIn" alt="Banner"/>
 
-<!-- Cabeçalho com gradiente -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Lucas&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Dados%20%E2%80%A2%20BI%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descSize=22&descAlignY=60&animation=fadeIn" alt="Banner"/>
-
-<!-- Texto animado -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Analista+de+Dados+%26+BI;Transformo+dados+em+decis%C3%A3o;Construo+ferramentas+que+resolvem+problemas+reais;Rio+de+Janeiro+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Data+Analyst+%26+BI+Developer;I+turn+raw+data+into+decisions;I+build+tools+that+solve+real+problems;Based+in+Rio+de+Janeiro%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
-![Visitantes](https://komarev.com/ghpvc/?username=horaguimaraes&label=Visitas&color=0e75b6&style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/horaguimaraes?label=Seguidores&style=flat-square&color=0e75b6)
-![Localização](https://img.shields.io/badge/Rio_de_Janeiro-BR-0e75b6?style=flat-square&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hora-800a28170)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horaguimaraes@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dxhora)
+
+![Profile views](https://komarev.com/ghpvc/?username=horaguimaraes&label=Profile+views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/horaguimaraes?label=Followers&style=flat-square&color=0e75b6)
+![Location](https://img.shields.io/badge/Rio_de_Janeiro-BR-0e75b6?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou **Lucas**, carioca, e trabalho com **análise de dados e Business Intelligence** em uma grande empresa do setor de energia. No dia a dia, transformo bases complexas em painéis claros, automatizo processos repetitivos e construo ferramentas internas que economizam tempo do time.
+I'm a **data analyst and BI developer** based in Rio de Janeiro, currently working at **Vibra Energia**, one of Brazil's largest energy companies. I turn complex datasets into clear dashboards, automate repetitive processes and build internal tools that save teams real time.
 
-Gosto de soluções **simples, autocontidas e que funcionam de verdade**, muitas vezes ferramentas de um único arquivo HTML/JS que qualquer pessoa abre no navegador sem instalar nada.
+I like solutions that are **simple, self-contained and actually work**, often a single HTML/JS file anyone can open in a browser with nothing to install.
 
-- 📊 Trabalho com **dados, dashboards e automação de relatórios**
-- 🛠️ Construo **ferramentas internas** sob medida (HTML/JS, integração com SharePoint)
-- 🎓 Cursando o último ano de **Tecnologia em TI na UFF**
-- 🎮 Curto **jogos** e brinco de criar os meus próprios
-- 🏃 Fora da tela: **corrida, treino e trilhas**
-- 🌱 Sempre estudando algo novo em dados e desenvolvimento
+- 📊 Business analysis, dashboards and reporting automation
+- 🧪 Data science with Python and Pandas
+- 🔌 REST APIs, SQL and data lake pipelines
+- 🎓 Final year of the Computer Technology degree at **UFF** (Universidade Federal Fluminense)
+- 🌱 Always learning something new in data and software development
 
 ---
 
-## 🧰 Stack e ferramentas
+## 🧰 Tech stack
 
 <div align="center">
 
-**Dados & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Desenvolvimento**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Plataformas**
-
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+| Area | Technologies |
+|:--|:--|
+| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F2027?style=flat-square) |
+| **BI & Low-code** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_%2F_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white) |
+| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Data Lake](https://img.shields.io/badge/Data_Lake-0F2027?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0e75b6?style=flat-square) |
+| **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-0e75b6?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0e75b6?style=flat-square) |
 
 </div>
 
-> 💡 Ajuste os badges à sua realidade. Procure outros em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
-
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
+
+Four projects that show my range, from quick wins to a full data platform.
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🚢 Frota Fantasma
-Jogo de **batalha naval** em português, feito para rodar direto no navegador, sem instalação. Interface própria, partidas rápidas e visual temático.
+### 🟢 Basic · Data Cleaning & EDA Toolkit
+A reusable **Python + Pandas** toolkit that ingests messy CSV/Excel files, cleans and validates them, and generates an exploratory analysis report with charts.
 
-`JavaScript` `HTML` `CSS`
+`Python` `Pandas` `Jupyter` `Data Viz`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/frota-fantasma)
+[🔗 View repository](https://github.com/horaguimaraes/data-cleaning-eda-toolkit)
 
 </td>
     <td width="50%" valign="top">
 
-### 📋 Painel de Backlog (kanban)
-Painel **kanban em arquivo único** para gestão de backlog de times, com filtros, status e visão por responsável. Funciona offline e pode integrar com SharePoint.
+### 🟢 Basic · Backlog Kanban Board
+A **single-file kanban** for team backlog management, with filters, statuses and per-owner views. Runs offline in any browser and can sync with SharePoint.
 
-`JavaScript` `HTML` `SharePoint`
+`JavaScript` `HTML` `CSS` `SharePoint`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 View repository](https://github.com/horaguimaraes/backlog-kanban)
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 📈 Nome do projeto 3
-Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
+### 🟡 Intermediate · Fuel Prices Analytics API
+An **ETL + REST API** that loads public fuel price data into a SQL database and serves it through a typed **TypeScript / Node.js** API, with a **Power BI** report on top.
 
-`Tecnologia` `Tecnologia`
+`TypeScript` `Node.js` `SQL` `REST API` `Power BI`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 View repository](https://github.com/horaguimaraes/fuel-prices-analytics-api)
 
 </td>
     <td width="50%" valign="top">
 
-### 🧩 Nome do projeto 4
-Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
+### 🔴 Advanced · Data Lake & Demand Forecasting Platform
+An end-to-end **data platform**: raw → clean → curated layers (medallion architecture) in a data lake, orchestrated pipelines, a **machine learning forecasting model**, a REST API for serving predictions, CI/CD and a Power BI dashboard.
 
-`Tecnologia` `Tecnologia`
+`Python` `Data Lake` `SQL` `Machine Learning` `REST API` `Docker` `GitHub Actions` `Power BI`
 
-[🔗 Ver repositório](https://github.com/horaguimaraes/NOME_DO_REPO)
+[🔗 View repository](https://github.com/horaguimaraes/datalake-forecasting-platform)
 
 </td>
   </tr>
@@ -125,39 +101,89 @@ Descreva em uma ou duas frases o que o projeto resolve e por que ele é legal.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💼 Experience
+
+| Period | Role | Focus |
+|:--|:--|:--|
+| **Aug 2024 – Present** | **Senior Administrative Assistant** · Vibra Energia | Business analysis and data analysis: dashboards, reporting automation and internal tools |
+| **Aug 2023 – Aug 2024** | **Intern** · Vale | Hybrid role supporting analysis and reporting in a global mining company |
+| **Dec 2022 – May 2023** | **Technology Intern** · Floki | Software and technology support |
+| **Aug 2021 – Jul 2022** | **Intern** · BTG Pactual | Excel, VBA, SQL, Python and Power BI for financial analysis and automation |
+| **Sep 2020 – Mar 2021** | **Computer Science Intern** · Pentágono S.A. DTVM | Excel and Office 365 for financial operations |
+
+## 🎓 Education
+
+**Technologist degree in Computer Technology** · Universidade Federal Fluminense (UFF) · 2021 – present (final year)
+
+## 📜 Selected certifications
+
+<details>
+<summary><b>Data, AI & Cloud</b></summary>
+
+- Python for Data Science: Foundations (LinkedIn)
+- Advanced Python Techniques (LinkedIn)
+- Artificial Intelligence Foundations: Machine Learning (LinkedIn)
+- Big Data and Artificial Intelligence: The Power of Data (LinkedIn)
+- SQL Essential Training (LinkedIn)
+- Database Foundations: Administration (LinkedIn)
+- Microsoft Power Platform Fundamentals (PL-900) Cert Prep: Power BI (LinkedIn)
+- Cloud Computing Fundamentals (LinkedIn)
+
+</details>
+
+<details>
+<summary><b>Software development & practices</b></summary>
+
+- JavaScript: Foundations (LinkedIn)
+- TypeScript Essential Training (LinkedIn)
+- TypeScript for Node.js Developers (LinkedIn)
+- DevOps Foundations (LinkedIn)
+- Advanced Scrum Techniques (LinkedIn)
+
+</details>
+
+<details>
+<summary><b>Finance & compliance</b></summary>
+
+- FIDC: Credit Rights Investment Funds (ANBIMA), Jul 2022
+- LGPD Compliance: Impact on Brazilian Companies (LinkedIn)
+
+</details>
+
+---
+
+## 📊 GitHub stats
 
 <div align="center">
 
-<!-- Estes cards são gerados pelo GitHub Action (.github/workflows/profile-summary-cards.yml)
-     e ficam salvos no próprio repositório, então não dependem de serviços externos. -->
-<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=horaguimaraes&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=horaguimaraes&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 <br/>
 
-<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários mais produtivos" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time" />
 
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let's connect
 
 <div align="center">
 
+I'm open to conversations about data, BI and automation.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hora-800a28170)
-[![Email](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horaguimaraes@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dxhora)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horaguimaraes@gmail.com)
 
 <br/>
 
-*"Dados sem contexto são só números. Com contexto, viram decisão."*
+*"Data without context is just numbers. With context, it becomes a decision."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="Rodapé"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="Footer"/>
