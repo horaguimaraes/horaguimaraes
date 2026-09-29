@@ -19,6 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Gerar cards do perfil
     steps:
+      # the action commits the generated SVGs, so the workspace must be a git checkout
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
