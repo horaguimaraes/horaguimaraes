@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Lucas%20Hora&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20BI%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Automation&descSize=20&descAlignY=62&animation=fadeIn" alt="Banner"/>
+<img width="100%" src="./assets/banner.svg" alt="Lucas Hora - Data Analyst, BI, Data Engineering, Automation"/>
 
 <div align="center">
 
