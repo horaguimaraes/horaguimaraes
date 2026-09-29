@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Lucas%20Hora&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20BI%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Automation&descSize=20&descAlignY=62&animation=fadeIn" alt="Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Lucas%20Hora&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Data%20Analyst%20%E2%80%A2%20BI%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Automation&descSize=20&descAlignY=62&animation=fadeIn" alt="Banner"/>
 
 <div align="center">
 
@@ -186,4 +186,4 @@ I'm open to conversations about data, BI and automation.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="Footer"/>
