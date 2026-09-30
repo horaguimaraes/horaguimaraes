@@ -38,10 +38,10 @@ I like solutions that are **simple, self-contained and actually work**, often a 
 
 | Area | Technologies |
 |:--|:--|
-| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F2027?style=flat-square) |
+| **Data Science & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F2027?style=flat-square) |
 | **BI & Low-code** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_%2F_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white) |
-| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Data Lake](https://img.shields.io/badge/Data_Lake-0F2027?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
-| **Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0e75b6?style=flat-square) |
+| **Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white) ![Data Lake](https://img.shields.io/badge/Data_Lake-0F2027?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-0e75b6?style=flat-square) |
 | **Tools & Practices** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-0e75b6?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-0e75b6?style=flat-square) |
 
 </div>
@@ -67,7 +67,7 @@ A reusable **Python + Pandas** toolkit that ingests messy CSV/Excel files, clean
     <td width="50%" valign="top">
 
 ### 🟢 Basic · Backlog Kanban Board
-A **single-file kanban** for team backlog management, with filters, statuses and per-owner views. Runs offline in any browser and can sync with SharePoint.
+A **single-file kanban** for team backlog management, with filters, statuses and per-owner views. Runs offline in any browser, with optional (experimental) SharePoint sync. 25 unit tests, zero dependencies.
 
 `JavaScript` `HTML` `CSS` `SharePoint`
 
@@ -79,7 +79,7 @@ A **single-file kanban** for team backlog management, with filters, statuses and
     <td width="50%" valign="top">
 
 ### 🟡 Intermediate · Fuel Prices Analytics API
-An **ETL + REST API** that loads public fuel price data into a SQL database and serves it through a typed **TypeScript / Node.js** API, with a **Power BI** report on top.
+An **ETL + REST API** that loads public fuel price data into a SQL database and serves it through a typed **TypeScript / Node.js** API with window-function analytics and an OpenAPI spec. Includes **Power BI** queries and DAX measures. 102 tests.
 
 `TypeScript` `Node.js` `SQL` `REST API` `Power BI`
 
@@ -89,9 +89,9 @@ An **ETL + REST API** that loads public fuel price data into a SQL database and 
     <td width="50%" valign="top">
 
 ### 🔴 Advanced · Data Lake & Price Forecasting Platform
-An end-to-end **data platform** for Brazil's fuel price survey: a **medallion data lake** (bronze → silver → gold) on Parquet and DuckDB, an **orchestrated pipeline** with data-quality gates, and a **backtested forecasting model** that must beat "no change" to be promoted. Processes **3.25M real ANP rows** in under 2 minutes, forecasts 1-8 weeks ahead, and serves results through a REST API and Power BI.
+An end-to-end **data platform** for Brazil's fuel price survey: a **medallion data lake** (bronze → silver → gold) on Parquet and DuckDB, an **orchestrated pipeline** with data-quality gates, and a **backtested forecasting model** that must beat "no change" to be promoted. Loads **3.25M real ANP rows**, retrains and forecasts 1-8 weeks ahead in under 2 minutes, and serves results through a REST API (Power BI queries included). 141 tests.
 
-`Python` `DuckDB` `Parquet` `SQL` `scikit-learn` `FastAPI` `Docker` `GitHub Actions` `Power BI`
+`Python` `DuckDB` `Parquet` `SQL` `scikit-learn` `FastAPI` `GitHub Actions` `Power BI`
 
 [🔗 View repository](https://github.com/horaguimaraes/datalake-forecasting-platform)
 
@@ -106,8 +106,8 @@ An end-to-end **data platform** for Brazil's fuel price survey: a **medallion da
 | Period | Role | Focus |
 |:--|:--|:--|
 | **Aug 2024 – Present** | **Senior Administrative Assistant** · Vibra Energia | Business analysis and data analysis: dashboards, reporting automation and internal tools |
-| **Aug 2023 – Aug 2024** | **Intern** · Vale | Hybrid role supporting analysis and reporting in a global mining company |
-| **Dec 2022 – May 2023** | **Technology Intern** · Floki | Software and technology support |
+| **Aug 2023 – Aug 2024** | **Intern** · Vale | Internship in Rio de Janeiro (hybrid) at a global mining company |
+| **Dec 2022 – May 2023** | **Technology Intern** · Floki | Technology internship |
 | **Aug 2021 – Jul 2022** | **Intern** · BTG Pactual | Excel, VBA, SQL, Python and Power BI for financial analysis and automation |
 | **Sep 2020 – Mar 2021** | **Computer Science Intern** · Pentágono S.A. DTVM | Excel and Office 365 for financial operations |
 
