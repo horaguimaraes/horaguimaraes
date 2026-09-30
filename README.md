@@ -88,10 +88,10 @@ An **ETL + REST API** that loads public fuel price data into a SQL database and 
 </td>
     <td width="50%" valign="top">
 
-### 🔴 Advanced · Data Lake & Demand Forecasting Platform
-An end-to-end **data platform**: raw → clean → curated layers (medallion architecture) in a data lake, orchestrated pipelines, a **machine learning forecasting model**, a REST API for serving predictions, CI/CD and a Power BI dashboard.
+### 🔴 Advanced · Data Lake & Price Forecasting Platform
+An end-to-end **data platform** for Brazil's fuel price survey: a **medallion data lake** (bronze → silver → gold) on Parquet and DuckDB, an **orchestrated pipeline** with data-quality gates, and a **backtested forecasting model** that must beat "no change" to be promoted. Processes **3.25M real ANP rows** in under 2 minutes, forecasts 1-8 weeks ahead, and serves results through a REST API and Power BI.
 
-`Python` `Data Lake` `SQL` `Machine Learning` `REST API` `Docker` `GitHub Actions` `Power BI`
+`Python` `DuckDB` `Parquet` `SQL` `scikit-learn` `FastAPI` `Docker` `GitHub Actions` `Power BI`
 
 [🔗 View repository](https://github.com/horaguimaraes/datalake-forecasting-platform)
 
